@@ -112,3 +112,5 @@ footer.site a { color: var(--muted); }
   tr { border-bottom: 2px solid var(--night); padding: 10px 0; }
   td:first-child { font-weight: bold; color: #fff; }
 }
+
+main.wrap { padding-top: 44px; padding-bottom: 64px; }
